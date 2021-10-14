@@ -43,7 +43,7 @@ The script will read through a CSV file and  perform the following functions:
 - Find the total votes received by each candidate,give percent of the total for each, and gather who won the information.
 - Print out all the the information gathered to a txt file that can be easily understood.  
   
-  Some modification the script could allow for further use. An input could be requested and then used to provide information pertaining to what is being sought on a specfic candidate or county.The informatin gathered could be wrote back to a csv file as well. The script used in the project is included below.
+Some modification the script could allow for further use would be an input could be requested and then used to provide information pertaining to what is being sought on a specfic candidate or county.The informatin gathered could also be wrote back to a csv file as well. The script used in the project is included below.
   
 ```
 # -*- coding: UTF-8 -*-
