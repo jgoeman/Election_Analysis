@@ -1,4 +1,4 @@
-# Election_Analysis_Challenge
+# Election Analysis Challenge
 
 ## Project Overview
 A Colorado Board of Elections employee has requested assistance in completing the election audit of a recent local congressional election. The following tasks were asked to completed to assist in completing the audit. The election commision has now also requested more information listed in steps 6-9 below.
