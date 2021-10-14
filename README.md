@@ -47,7 +47,6 @@ The script will read through a CSV file and  perform the following functions:
   
 ```
 # -*- coding: UTF-8 -*-
-"""PyPoll Homework Challenge Solution."""
 
 # Add our dependencies.
 import csv
